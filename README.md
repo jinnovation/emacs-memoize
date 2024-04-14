@@ -1,5 +1,7 @@
 # Elisp memoization functions
 
+[![](https://melpa.org/packages/memoize-badge.svg)](https://melpa.org/#/memoize)
+
 See the header in the source file for details. It's very easy to use:
 
 ```cl
